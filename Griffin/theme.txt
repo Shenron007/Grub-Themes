@@ -15,13 +15,13 @@ terminal-border: "0"
 
 # Show the boot menu
 + boot_menu {
-  left = 50%
+  left = 30%
   top = 50%
   width = 45%
   height = 60%
   item_font = "griffin"
-  item_color = "#cccccc"
-  selected_item_color = "#ffffff"
+  item_color = "#ffffff"
+  selected_item_color = "#000000"
   item_height = 24
   item_spacing = 12
   selected_item_pixmap_style = "select_*.png"
